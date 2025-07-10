@@ -1,4 +1,4 @@
-# User Behavior Anomaly Detection System    
+# UBADS: User Behavior Anomaly Detection System    
 
 A comprehensive web-based system for detecting anomalous user behavior patterns in log files using machine learning techniques.
 
