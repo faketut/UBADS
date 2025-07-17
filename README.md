@@ -2,7 +2,8 @@
 
 A comprehensive web-based system for detecting anomalous user behavior patterns in log files using machine learning techniques.
 
-![Intro Video]([https://www.youtube.com/watch?v=5LkUzYP4coQ]
+[![](https://i9.ytimg.com/vi_webp/5LkUzYP4coQ/mq2.webp?sqp=CJDY5MMG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBmjSzkmNNwFaYDMlFJS8W4L3dlng)](https://www.youtube.com/watch?v=5LkUzYP4coQ&feature=youtu.be)
+
 
 ## Features
 
