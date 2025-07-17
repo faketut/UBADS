@@ -2,6 +2,8 @@
 
 A comprehensive web-based system for detecting anomalous user behavior patterns in log files using machine learning techniques.
 
+![Alt Text]([./Animation.gif](https://www.youtube.com/watch?v=5LkUzYP4coQ))
+
 ## Features
 
 - **Web-based Interface**: Modern, responsive UI built with Flask and Bootstrap
